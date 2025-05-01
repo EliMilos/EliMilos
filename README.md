@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<section>
-  <h2 id="typewriter"></h2>
-</section>
+
 
 <section>
     <h2>Lenguajes y Tecnologías</h2>
@@ -61,16 +59,5 @@ Here are some ideas to get you started:
     <p>Gracias por visitar mi perfil. ¡Conectemos y creemos algo genial!</p>
   </footer>
 
-  <script>
-  const text = "💻 Bienvenido a mi perfil de GitHub...";
-  let i = 0;
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typewriter").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 75);
-    }
-  }
-  window.onload = typeWriter;
-</script>
+
 
