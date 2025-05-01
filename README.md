@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**EliMilos/EliMilos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Elian Mancero, desarrollador con experiencia en lenguajes como C#, JavaScript y SQL. Me especializo en el desarrollo de aplicaciones tanto frontend como backend, con una base sólida en el diseño, gestión y optimización de bases de datos. Además, tengo interés en el análisis de datos, aplicando técnicas para extraer información útil que apoye la toma de decisiones. Me enfoco en construir soluciones eficientes, bien estructuradas y alineadas con las necesidades reales de los proyectos.
 
 Here are some ideas to get you started:
 
