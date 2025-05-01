@@ -50,8 +50,8 @@ Here are some ideas to get you started:
     <p>
       Fuera del mundo del desarrollo, disfruto aprender sobre nuevas tecnologías, participar en comunidades de código abierto y explorar datos por curiosidad.
     </p>
-    <p><strong>Pasatiempos:</strong> Lectura, videojuegos, ciclismo, resolver acertijos lógicos</p>
-    <p><strong>Gustos musicales:</strong> Rock alternativo, synthwave, bandas sonoras de videojuegos y música instrumental</p>
+    <p><strong>Pasatiempos:</strong> Lectura, videojuegos, streams.</p>
+    <p><strong>Gustos musicales:</strong> Rock alternativo, Pop</p>
   </section>
 
   <footer>
