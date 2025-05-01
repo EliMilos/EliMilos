@@ -1,5 +1,5 @@
 ## Hi there 👋
-Soy Elian Mancero, desarrollador con experiencia en lenguajes como C#, JavaScript y SQL. Me especializo en el desarrollo de aplicaciones tanto frontend como backend, con una base sólida en el diseño, gestión y optimización de bases de datos. Además, tengo interés en el análisis de datos, aplicando técnicas para extraer información útil que apoye la toma de decisiones. Me enfoco en construir soluciones eficientes, bien estructuradas y alineadas con las necesidades reales de los proyectos.
+Soy Elian Mancero, estudiante de la carrera de Tecnologías de la Información con experiencia en lenguajes como C#, JavaScript y SQL. Me especializo en el desarrollo de aplicaciones tanto frontend como backend, con una base sólida en el diseño, gestión y optimización de bases de datos. Además, tengo interés en el análisis de datos, aplicando técnicas para extraer información útil que apoye la toma de decisiones. Me enfoco en construir soluciones eficientes, bien estructuradas y alineadas con las necesidades reales de los proyectos.
 
 <!--
 Soy Elian Mancero, desarrollador con experiencia en lenguajes como C#, JavaScript y SQL. Me especializo en el desarrollo de aplicaciones tanto frontend como backend, con una base sólida en el diseño, gestión y optimización de bases de datos. Además, tengo interés en el análisis de datos, aplicando técnicas para extraer información útil que apoye la toma de decisiones. Me enfoco en construir soluciones eficientes, bien estructuradas y alineadas con las necesidades reales de los proyectos.
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
       <li><strong>Herramientas:</strong> Git, GitHub, Visual Studio, VS Code</li>
     </ul>
   </section>
+
+  <img src="[URL-de-la-imagen](https://www.google.com/imgres?q=UTA&imgurl=https%3A%2F%2Funivercimas.com%2Fwp-content%2Fuploads%2F2021%2F04%2FUniversidad-Tecnica-de-Ambato.jpg&imgrefurl=https%3A%2F%2Funivercimas.com%2Funiversidad-tecnica-de-ambato-uta%2F&docid=zV6L9ANB41OnuM&tbnid=tk8SsgERFfuxFM&vet=12ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA)" alt="Logo">
+
 
   <section>
     <h2>Áreas de Interés</h2>
