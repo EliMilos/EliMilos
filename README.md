@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<section>
+  <h2 id="typewriter"></h2>
+</section>
 
 <section>
     <h2>Lenguajes y Tecnologías</h2>
@@ -25,9 +28,6 @@ Here are some ideas to get you started:
       <li><strong>Herramientas:</strong> Git, GitHub, Visual Studio, VS Code</li>
     </ul>
   </section>
-
-  <img src="[[URL-de-la-imagen](https://www.google.com/imgres?q=UTA&imgurl=https%3A%2F%2Funivercimas.com%2Fwp-content%2Fuploads%2F2021%2F04%2FUniversidad-Tecnica-de-Ambato.jpg&imgrefurl=https%3A%2F%2Funivercimas.com%2Funiversidad-tecnica-de-ambato-uta%2F&docid=zV6L9ANB41OnuM&tbnid=tk8SsgERFfuxFM&vet=12ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA)](https://www.grupolarabida.org/wp-content/uploads/2020/10/Ecuador_UniversidadTecnicadeAmbato_UTA_33_.jpg)" alt="Logo">
-
 
   <section>
     <h2>Áreas de Interés</h2>
@@ -60,3 +60,17 @@ Here are some ideas to get you started:
   <footer>
     <p>Gracias por visitar mi perfil. ¡Conectemos y creemos algo genial!</p>
   </footer>
+
+  <script>
+  const text = "💻 Bienvenido a mi perfil de GitHub...";
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 75);
+    }
+  }
+  window.onload = typeWriter;
+</script>
+
