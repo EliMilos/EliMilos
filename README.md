@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     </ul>
   </section>
 
-  <img src="[URL-de-la-imagen](https://www.google.com/imgres?q=UTA&imgurl=https%3A%2F%2Funivercimas.com%2Fwp-content%2Fuploads%2F2021%2F04%2FUniversidad-Tecnica-de-Ambato.jpg&imgrefurl=https%3A%2F%2Funivercimas.com%2Funiversidad-tecnica-de-ambato-uta%2F&docid=zV6L9ANB41OnuM&tbnid=tk8SsgERFfuxFM&vet=12ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA)" alt="Logo">
+  <img src="[[URL-de-la-imagen](https://www.google.com/imgres?q=UTA&imgurl=https%3A%2F%2Funivercimas.com%2Fwp-content%2Fuploads%2F2021%2F04%2FUniversidad-Tecnica-de-Ambato.jpg&imgrefurl=https%3A%2F%2Funivercimas.com%2Funiversidad-tecnica-de-ambato-uta%2F&docid=zV6L9ANB41OnuM&tbnid=tk8SsgERFfuxFM&vet=12ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA..i&w=400&h=400&hcb=2&ved=2ahUKEwiS-NrlvoKNAxW9QjABHRw_PNkQM3oECB8QAA)](https://www.grupolarabida.org/wp-content/uploads/2020/10/Ecuador_UniversidadTecnicadeAmbato_UTA_33_.jpg)" alt="Logo">
 
 
   <section>
