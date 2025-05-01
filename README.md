@@ -15,3 +15,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<section>
+    <h2>Lenguajes y Tecnologías</h2>
+    <ul>
+      <li><strong>Lenguajes:</strong> C#, JavaScript, SQL</li>
+      <li><strong>Frontend:</strong> HTML5, JavaScript</li>
+      <li><strong>Bases de Datos:</strong> SQL Server, MySQL</li>
+      <li><strong>Herramientas:</strong> Git, GitHub, Visual Studio, VS Code</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Áreas de Interés</h2>
+    <ul>
+      <li>Desarrollo web full stack</li>
+      <li>Diseño y optimización de bases de datos</li>
+      <li>Análisis de datos y visualización</li>
+      <li>Automatización de procesos con scripts</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Proyectos Destacados</h2>
+    <ul>
+      <li>Sistema de punto de venta con ASP.NET y SQL Server</li>
+      <li>Dashboard interactivo para análisis de datos con Python y Plotly</li>
+      <li>Aplicaciones web responsivas con React</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Más sobre mí</h2>
+    <p>
+      Fuera del mundo del desarrollo, disfruto aprender sobre nuevas tecnologías, participar en comunidades de código abierto y explorar datos por curiosidad.
+    </p>
+    <p><strong>Pasatiempos:</strong> Lectura, videojuegos, ciclismo, resolver acertijos lógicos</p>
+    <p><strong>Gustos musicales:</strong> Rock alternativo, synthwave, bandas sonoras de videojuegos y música instrumental</p>
+  </section>
+
+  <footer>
+    <p>Gracias por visitar mi perfil. ¡Conectemos y creemos algo genial!</p>
+  </footer>
